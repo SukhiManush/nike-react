@@ -1,0 +1,49 @@
+.my-font{font-family: 'Bebas Neue', cursive;
+font-size: 80px;
+}
+.my-n-font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px
+}   
+.robot{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.nike-bg-info{
+    background-color:#FFF9F4 ;
+}
+.nike-bg-warning{
+    background-color: #F1F1F1;
+}
+.panda-bg-success{
+    background-color: #da70d6;
+}
+.panda-bg-danger{
+    background-color: #0000ff;
+}
+.catagories img{
+height: 100px;
+}
+.panda-btn-buy{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.nike-banner-img img{
+    width: 100%;
+
+}
+.card img{
+    height: 386px;
+}
+.service-image img{
+    width: 78px;
+height: 82px;
+}
+.service-img img{
+    width: 90%;
+}
